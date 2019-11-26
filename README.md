@@ -9,7 +9,7 @@ It uses the following dependencies:
 Important configuration are:
 
 ReactiveWebSocketConfiguration class
-- Provide websocket handler mapping bean definning an uri to receive connections.
+- Provide websocket handler mapping bean defining an uri to receive connections.
 - Provide a handle adapter.
 
 ReactiveWebSocketHandler class
